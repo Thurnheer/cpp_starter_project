@@ -1,12 +1,12 @@
 # cpp_starter_project
 
-[![codecov](https://codecov.io/gh/lefticus/cpp_starter_project/branch/master/graph/badge.svg)](https://codecov.io/gh/lefticus/cpp_starter_project)
+[![codecov](https://codecov.io/gh/thurnheer/cpp_starter_project/branch/thurnheer_extensions/graph/badge.svg)](https://codecov.io/gh/thurnheer/cpp_starter_project)
 
-[![Build Status](https://travis-ci.org/lefticus/cpp_starter_project.svg?branch=master)](https://travis-ci.org/lefticus/cpp_starter_project)
+[![Build Status](https://travis-ci.org/thurnheer/cpp_starter_project.svg?branch=thurnheer_extensions)](https://travis-ci.org/thurnheer/cpp_starter_project)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ro4lbfoa7n0sy74c/branch/master?svg=true)](https://ci.appveyor.com/project/lefticus/cpp-starter-project/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/4af157moufw6jgjb/branch/thurnheer_extensions?svg=true)](https://ci.appveyor.com/project/thurnheer/cpp-starter-project/branch/thurnheer_extensions)
 
-![CMake](https://github.com/lefticus/cpp_starter_project/workflows/CMake/badge.svg)
+![CMake](https://github.com/thurnheer/cpp_starter_project/workflows/CMake/badge.svg)
 
 
 ## Getting Started
